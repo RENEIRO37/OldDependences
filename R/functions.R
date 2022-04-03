@@ -554,7 +554,7 @@ dependBibliometrix<-function(){
 
   dependOldInstall()
 
-  Print("¡¡¡La instalación de Biblimetrix y sus dependecias ha finalizado!!!")
+  print("LA INSTALACION DE BIBLIOMETRIX Y SUS DEPENDENCIAS HA FINALIZADO EXITOSAMENTE")
 }
 
 
