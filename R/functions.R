@@ -552,6 +552,8 @@ dependBibliometrix<-function(){
   packageurl <- "https://cloud.r-project.org/bin/windows/contrib/4.1/rjson_0.2.21.zip"
   install.packages(packageurl, repos=NULL, type="source")
 
+  print("hola Yancarlos")
+
   dependOldInstall()
 
   print("LA INSTALACION DE BIBLIOMETRIX Y SUS DEPENDENCIAS HA FINALIZADO EXITOSAMENTE")
